@@ -8,6 +8,7 @@ In this lesson, you are going to do the following:
    1. Name
    2. Age
    3. Gender
+   4. Relationship
 3. Add a row for each of your immediate family members with the correct information in each table data cell
 4. Add a caption to your table saying "My Family"
 
