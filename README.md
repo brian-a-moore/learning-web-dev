@@ -1,6 +1,7 @@
 # Lesson 4: Elements & Attributes
 
 Read this first: https://www.w3schools.com/html/html_elements.asp
+
 And this: https://www.w3schools.com/html/html_attributes.asp
 
 Element: An HTML element is defined by a start tag, some content, and an end tag.
