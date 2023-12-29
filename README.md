@@ -24,5 +24,3 @@ Here’s the most important highlights about Git you should know:
 There’s a lot more to git, but these are the most common commands you will use to get started. Below I’ve added a cheatsheet, you should keep this saved for reference
 
 Here’s the cheatsheet: https://education.github.com/git-cheat-sheet-education.pdf
-
-Please reach out to me from here so we can 
