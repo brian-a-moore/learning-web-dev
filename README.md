@@ -40,6 +40,7 @@ Your assignment for this lesson is to:
 4. Add that image to the main section of your website with an alternate text of your name,  ref: https://www.w3schools.com/html/html_images.asp
 5. Add a link to the navigation section that takes you to MSN.com, the link should read "MSN" on screen
 6. Add a favicon to your website, ref: https://www.w3schools.com/html/html_favicon.asp
+7. Add your name to the title of the webpage, ref: https://www.w3schools.com/html/html_page_title.asp
 
 When you are finished:
 1. Add you code to a commit
