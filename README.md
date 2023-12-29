@@ -1,4 +1,4 @@
-a# Lesson 4: Elements & Attributes
+# Lesson 4: Elements & Attributes
 
 Read this first: https://www.w3schools.com/html/html_elements.asp
 And this: https://www.w3schools.com/html/html_attributes.asp
