@@ -1,6 +1,6 @@
-Hello!
+# Lesson 1: Setting up your system
 
-If you are here, that means you've already completed Lesson 1 and have Node.js, VS Code, and Git installed on your machine and you have a GitHub account!
+If you are here, that means you've already completed [Lesson 1](https://docs.google.com/document/d/1jTldbT9miOZf93LpSaZKR7AQUXt7g3HCcTdZx6kyqtI/edit?usp=sharing) and have Node.js, VS Code, and Git installed on your machine and you have a GitHub account!
 
 Congratulations!
 
