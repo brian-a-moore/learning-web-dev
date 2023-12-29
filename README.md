@@ -2,6 +2,8 @@
 
 Read this first: https://www.w3schools.com/html/html5_semantic_elements.asp
 
+Also read this: https://www.w3schools.com/html/html_layout.asp
+
 In this lesson, we are going to talk about setting up a basic web page. In `src/index.html` you will see the bare mininum needed to create a web page.
 
 * You need to declare your document type: `<!DOCTYPE html>`
