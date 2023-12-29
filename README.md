@@ -36,7 +36,7 @@ and the `alt=""` attribute to add some alternate text in case the image fails to
 Your assignment for this lesson is to:
 1. Add a heading 1 to the header with your name in it (ref: https://www.w3schools.com/html/html_headings.asp)
 2. Create a folder in `src` called `images`
-3. Put an image of yourself from your PC in the newly created `src/images` folder
+3. Put an image of yourself from your PC in the newly created `src/images` folder, ref: https://www.w3schools.com/html/html_images.asp
 4. Add that image to the main section of your website with an alternate text of your name
 5. Add a link to the navigation section that takes you to MSN.com, the link should read "MSN" on screen
 
