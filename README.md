@@ -34,7 +34,7 @@ So we add the `src=""` attribute to point at the source of the image, which is a
 and the `alt=""` attribute to add some alternate text in case the image fails to load.
 
 Your assignment for this lesson is to:
-1. Add a heading 1 to the header with your name in it
+1. Add a heading 1 to the header with your name in it (ref: https://www.w3schools.com/html/html_headings.asp)
 2. Create a folder in `src` called `images`
 3. Put an image of yourself from your PC in the newly created `src/images` folder
 4. Add that image to the main section of your website with an alternate text of your name
