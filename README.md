@@ -1,13 +1,23 @@
-# Lesson 1: Setting up your system
+# Lesson 3: Basic Layout & Semantic Tags
 
-If you are here, that means you've already completed [Lesson 1](https://docs.google.com/document/d/1jTldbT9miOZf93LpSaZKR7AQUXt7g3HCcTdZx6kyqtI/edit?usp=sharing) and have Node.js, VS Code, and Git installed on your machine and you have a GitHub account!
+In this lesson, we are going to talk about setting up a basic web page. In `src/index.html` you will see the bare mininum needed to create a web page.
 
-Congratulations!
+* You need to declare your document type: `<!DOCTYPE html>`
+* You will need the `<html></html>` tags, this is where your HTML code will go.
+* The `<head></head>` is where metadata and other information that describes the document itself will go.
+* The  `<body></body>` is where the actual website content will go.
 
-This document is a called a "Read Me" document and it is written in a language called Markdown. You'll see documents like this a lot in coding and it is typically used to describe the code base you are in. I'll use `README.md` files often to give instructions of how to navigate your learning.
+From there, there's a bit more structure you can add. Most websites have:
+* A header to describe what the website is about or contain branding, etc.
+* A navigation bar or section for the main links used to navigate the website
+* A main section where the web page's main content is
+* A footer where you can typically find supporting information like the company's address, social links, etc.
 
-For each lesson you are going to create a new branch or checkout an existing branch based off of whatever lesson we are on. You will do the lesson locally on your machine and push your code back up to GitHub. I'll add new lessons periodically and you will need to use Git to check for new lessons, pull them down and do them.
+Your task for this lesson is the following:
 
-Do not make changes to `main` directly.
-
-When you're ready, go ahead and checkout the `lesson-02` branch to learn about Git!
+1. Edit `src/index.html` to add a header, navigation section, main section and footer. (html)
+2. In each section, simply type what the sections means in your own words. (html)
+3. Save the changes (html)
+4. Add the changes to a commit (git)
+5. Commit the changes (git)
+6. Push the changes(git)
