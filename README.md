@@ -19,5 +19,5 @@ Your task for this lesson is the following:
 2. In each section, simply type what the sections means in your own words. (html)
 3. Save the changes (html)
 4. Add the changes to a commit (git)
-5. Commit the changes (git)
-6. Push the changes(git)
+5. Commit the changes, don't forget to add a commit message (git)
+6. Push the changes to GitHub (git)
