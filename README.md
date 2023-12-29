@@ -39,6 +39,7 @@ Your assignment for this lesson is to:
 3. Put an image of yourself from your PC in the newly created `src/images` folder
 4. Add that image to the main section of your website with an alternate text of your name,  ref: https://www.w3schools.com/html/html_images.asp
 5. Add a link to the navigation section that takes you to MSN.com, the link should read "MSN" on screen
+6. Add a favicon to your website, ref: https://www.w3schools.com/html/html_favicon.asp
 
 When you are finished:
 1. Add you code to a commit
