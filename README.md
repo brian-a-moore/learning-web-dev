@@ -10,6 +10,6 @@ For each lesson you are going to create a new branch or checkout an existing bra
 
 Do not make changes to `main` directly.
 
-When you're ready, go ahead and checkout the `lesson-02` branch to learn about Git!
+When you're ready, go ahead and **clone** this repo to your machine and **checkout** the `lesson-02` branch to learn about Git!
 
 **NOTE:** If you've installed all the extensions correctly, you should be able to right-click on the `README.md` file and click "Open Preview". Always open in preview so you can see the file pre-formatted and not look at the source code.
