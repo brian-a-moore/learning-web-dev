@@ -1,9 +1,94 @@
 <!DOCTYPE html>
 <html>
     <head>
-
-    </head>
-    <body>
+        <!-- Do not edit anything within this style tag. We will get to CSS soon, for now, you'll be using the default styles I have already provided. In order to use these correctly, you will have to use HTML attributes, which you should be familiar with.
+        Inside this style tag, you will see things named like this: ".foobar", this means "foobar" is the name of a "Class". 
         
+        You can use "Class Attributes" on your HTML tags like this: <p class="foobar"></p>. This will assign the styles from the "something" class to that paragraph tag.
+    
+        The remaining tags are semantic and should automatically be styled if you are using the right tags.
+
+        All the images you need are already providded in the assets folder.
+
+        Make sure you pay attention to accessibility and use the right tags for the right content.
+
+    -->
+         <style>
+            * {
+                box-sizing: border-box;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            body {
+                margin: 0;
+            }
+            header {
+                background-color: aquamarine;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 16px;
+            }
+
+            h2 {
+                background-color: beige;
+                margin: 0;
+                padding: 8px 16px;
+            }
+            h3 {
+                background-color: lightblue;
+                margin: 0;
+                padding: 4px 16px;
+            }
+            img.logo {
+                width: 200px;
+            }
+            .images {
+                display: flex;
+                column-gap: 16px;
+                padding: 16px;
+            }
+
+            .images img {
+                width: 200px;
+                background-color: gray;
+            }
+            section {
+                padding: 16px;
+            }
+            sub {
+                color:brown
+            }
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+            table, th, td {
+                border: 1px solid black;
+            }
+            blockquote {
+                background-color: cornflowerblue;
+                color: white;
+                font-style: italic;
+                padding: 4px;
+            }
+            footer {
+                background-color: darkgray;
+                padding: 32px;
+                text-align: center;
+            }
+            .review {
+                background-color: aliceblue;
+                padding: 16px;
+                margin-bottom: 16px
+            }
+
+            .reviewer {
+                display: flex;
+                justify-content: space-between;
+            }
+         </style>
+    </head>                            
+    <body>
     </body>
 </html>

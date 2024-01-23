@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<!-- You shouldn't be snooping in here ;) -->
+<html>
+    <head>
+        <title>Amazon: Xbox Series X</title>
+          <link rel="icon" type="image/x-icon" href="assets/amazon_icon.svg" />
+         <style>
+            * {
+                box-sizing: border-box;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            body {
+                margin: 0;
+            }
+            header {
+                background-color: aquamarine;
+                width: 100%;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 16px;
+            }
+
+            h2 {
+                background-color: beige;
+                margin: 0;
+                padding: 8px 16px;
+            }
+            h3 {
+                background-color: lightblue;
+                margin: 0;
+                padding: 4px 16px;
+            }
+            img.logo {
+                width: 200px;
+            }
+            .images {
+                display: flex;
+                column-gap: 16px;
+                padding: 16px;
+            }
+
+            .images img {
+                width: 200px;
+                background-color: gray;
+            }
+            section {
+                padding: 16px;
+            }
+            sub {
+                color:brown
+            }
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+            table, th, td {
+                border: 1px solid black;
+            }
+            blockquote {
+                background-color: cornflowerblue;
+                color: white;
+                font-style: italic;
+                padding: 4px;
+            }
+            footer {
+                background-color: darkgray;
+                padding: 32px;
+                text-align: center;
+            }
+            .review {
+                background-color: aliceblue;
+                padding: 16px;
+                margin-bottom: 16px
+            }
+
+            .reviewer {
+                display: flex;
+                justify-content: space-between;
+            }
+         </style>
+    </head>                            
+    <body>         
+        <header>
+            <h1> Amazon </h1>
+            <img class="logo" src="assets/amazon_logo.svg" alt="Amazon" />
+        </header>
+        <main>
+            <section>
+                <h2>Images</h2>
+                <div class="images">
+                    <img class="xbox" src="assets/xbox_1.jpeg" alt="Xbox Series X Product Image 1" />
+                    <img class="xbox" src="assets/xbox_2.jpeg" alt="Xbox Series X Product Image 2" />
+                    <img class="xbox" src="assets/xbox_3.webp" alt="Xbox Series X Product Image 3" />
+                </div>
+            </section>
+            <section>
+                <h2>Product Description</h2>
+                <h3>Overview</h3>
+                <p><strong>Xbox Series X</strong> is the most powerful console Microsoft has ever created! Its graphics power are <em>100 times</em> that of consoles just 20 years ago!</p>
+                <p> Make the most of every gaming minute with Quick Resume, lightning-fast load times, and gameplay of up to 120 FPS – all powered by Xbox Velocity Architecture.</p>
+                <p>Games load significantly faster with the custom SSD and integrated software. While ultra-low latency improves the response time from your controller to your TV.</p>
+                <sub><em>*Individual results may vary</em></sub>
+                <h3>Features</h3>
+                <ul>
+                    <li>Sleek design</li>
+                    <li>Fast Startup</li>
+                    <li>Quick Resume</li>
+                </ul>
+                <h3>Specifications</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Category</th>
+                            <th>Specification</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Color</td>
+                                <td>Black</td>
+                            </tr>
+                            <tr>
+                                <td>Weight</td>
+                                <td>12 lbs</td>
+                            </tr>
+                            <tr>
+                                <td>Dimensons</td>
+                                <td>12 x 16 x 7 (in.)</td>
+                            </tr>
+                        </tbody>
+                </table>
+            </section>
+            <section>
+                <h2>Reviews</h2>
+                <div class='review'>
+                    <div class="reviewer">
+                        <h4>John Smith</h4>
+                        <h5>5 Stars</h5>
+                    </div>
+                    <blockquote>This system is awesome!</blockquote>
+                </div>
+                <div class='review'>
+                    <div class="reviewer">
+                        <h4>Jane Doe</h4>
+                        <h5>4.6 Stars</h5>
+                    </div>
+                    <blockquote>Way better than that crappy PS5!</blockquote>
+                </div>
+                <div class='review'>
+                    <div class="reviewer">
+                        <h4>Jim Jones</h4>
+                        <h5>2.5 Stars</h5>
+                    </div>
+                    <blockquote>Meh, I will just use my PC.</blockquote>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>
+                <a href="amazon.com">&copy; 2021 Amazon</a>
+            </p>
+
+        </footer>
+    </body>
+</html>
